@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #0068d0;
+}
+
+main {
+    background-color: #fad762;
+}
+
+footer {
+    background-color: #d378a6;
+}
